@@ -5,11 +5,11 @@
 .left {text-align: left;}
 .right {text-align: right;}
 .nodeco {text-decoration: none;}
-.container { max-width: 400px; padding: 30px 10px 10px 400px;}
+.container { max-width: 250px; padding-top: 30px; padding-bottom: 40px; margin: auto;}
 .containerh2 { border-bottom: 6px solid rgb(73, 62, 62);}
-.dogsize { align-self: right; margin: 5px 5px 5px 5px;}
+/* .dogsize { align-self: right; margin: 5px 5px 5px 5px;} */
 .size {font-size: 350%;}
-.psizetogether {margin: 0px 80px 10px 40px }
+.psizetogether {margin-bottom: 10px;}
 .fixedpo {position: fixed}
 .floatright {float: right;}
 .textcenter {text-align: center;}
@@ -22,5 +22,6 @@
 .imgborder {border: 6px solid rgb(73, 62, 62);}
 
 .centercolor {background-color:blanchedalmond;}
-.homepad {padding-left: 290px;}
-.homepad2 {padding: 40px 0px 0px 475px;}
+.onethird {max-width: 300px; overflow: hidden;}
+.menuwidth {width: 90%;}
+.flexcontainer {display: flex; flex-direction: row;}
