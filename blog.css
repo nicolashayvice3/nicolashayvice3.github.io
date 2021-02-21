@@ -25,3 +25,5 @@
 .onethird {max-width: 300px; overflow: hidden;}
 .menuwidth {width: 90%;}
 .flexcontainer {display: flex; flex-direction: row;}
+.size4 {font-size: 200%;}
+.color3 {color: black;}
