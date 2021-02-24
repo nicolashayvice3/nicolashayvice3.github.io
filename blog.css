@@ -9,7 +9,7 @@
 .containerh2 { border-bottom: 6px solid rgb(73, 62, 62);}
 /* .dogsize { align-self: right; margin: 5px 5px 5px 5px;} */
 .size {font-size: 350%;}
-.psizetogether {margin-bottom: 10px;}
+.psizetogether {margin-bottom: 60px;}
 .fixedpo {position: fixed}
 .floatright {float: right;}
 .textcenter {text-align: center;}
@@ -27,3 +27,5 @@
 .flexcontainer {display: flex; flex-direction: row;}
 .size4 {font-size: 200%;}
 .color3 {color: black;}
+.size3 {font-size: 150%;}
+.psticky {position: sticky; top: 0;}
